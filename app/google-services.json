@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743722743143",
+    "firebase_url": "https://amelia-foodcourt-e441d-default-rtdb.firebaseio.com",
+    "project_id": "amelia-foodcourt-e441d",
+    "storage_bucket": "amelia-foodcourt-e441d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743722743143:android:f207402b4abf521225ebc2",
+        "android_client_info": {
+          "package_name": "com.amelia.foodcourt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743722743143-k6kb0n658hoemokh6pafkk3hm8mjeeem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3BEqkKb3qT2MK5NLIa07LCqP3U24fkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743722743143-k6kb0n658hoemokh6pafkk3hm8mjeeem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
