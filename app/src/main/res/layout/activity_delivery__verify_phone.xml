@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:background="@drawable/pic9"
     android:layout_height="match_parent"
-    tools:context="my.food_on.app.Delivery_VerifyPhone">
+    tools:context="Delivery_VerifyPhone">
 
     <LinearLayout
         android:id="@+id/linearlayout"

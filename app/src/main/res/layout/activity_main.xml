@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/Black"
-    tools:context="my.food_on.app.MainActivity">
+    android:background="@color/white"
+    tools:context="MainActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -26,10 +26,10 @@
         android:layout_width="217dp"
         android:layout_height="30dp"
         android:fontFamily="@font/caudex"
-        android:text="Mufaddal Shakir"
+        android:text="Farhan Ab.G"
         android:textAlignment="center"
         android:textAllCaps="true"
-        android:textColor="#FDFDFD"
+        android:textColor="@color/Black"
         android:textSize="17dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

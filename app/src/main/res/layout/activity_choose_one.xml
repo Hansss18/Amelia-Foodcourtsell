@@ -5,7 +5,7 @@
     android:id="@+id/back3"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    tools:context="my.food_on.app.ChooseOne">
+    tools:context="ChooseOne">
 
 
     <LinearLayout
